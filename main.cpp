@@ -8,6 +8,5 @@ int main() {
     cout << "Masukkan angka: ";
     cin >> angka;
     cout << "Angka yang Anda masukkan adalah: " << angka << endl;
-    cin>>space;
     return 0;
 }
